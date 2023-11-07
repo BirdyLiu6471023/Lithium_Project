@@ -1,9 +1,7 @@
 ## Lithium Price
 
 #### Data
-2 main Lithium price series
-Lithium Carbonate (Li2CO3): https://github.com/globalaiorg/NLP-LITHIUM-COMMODITIES/blob/main/jerry/lithium_dataset/Lithium%20Carbonate%20(wind%20database).csv 
-Lithium Hydroxide (LiOH): https://github.com/globalaiorg/NLP-LITHIUM-COMMODITIES/blob/main/jerry/lithium_dataset/Lithium%20Hydroxide%20(wind%20database).csv 
+Lithium Carbonate Li2CO3
 
 #### Unsmoothing Methods
 Due to illiquidity of Lithium price, we need to do Unsmoothing Process with AR & MA model 
