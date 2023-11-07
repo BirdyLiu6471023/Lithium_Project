@@ -222,7 +222,7 @@ def get_data(start_date, end_date, ticker):
     df.columns = ['Date', 'Price']
     return df
 
-def get_stock_data(ticker, start_date, end_date, sampling_period = 'W-FRI'):
+def get_stock_data(ticker, start_date, end_date, upstream_companies, sampling_period = 'W-FRI'):
     'This function would transform every stock that is not denominated as RMB to RMB'
     df = get_data(start_date, end_date, ticker)
     df['Date'] = pd.to_datetime(df['Date'])
