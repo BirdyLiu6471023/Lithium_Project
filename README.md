@@ -6,7 +6,7 @@ Lithium Carbonate (Li2CO3): https://github.com/globalaiorg/NLP-LITHIUM-COMMODITI
 Lithium Hydroxide (LiOH): https://github.com/globalaiorg/NLP-LITHIUM-COMMODITIES/blob/main/jerry/lithium_dataset/Lithium%20Hydroxide%20(wind%20database).csv 
 
 #### Unsmoothing Methods
-Due to illiquidity of Lithium price, we need to do Unsmoothing Process with AR & MA model \\
+Due to illiquidity of Lithium price, we need to do Unsmoothing Process with AR & MA model \n
 Instructions:  https://drive.google.com/drive/u/1/folders/1M7Fzb_CyFdeqfdZdKF1Rl3LTATyabs9O 
 
 #### Regression 
