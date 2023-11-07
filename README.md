@@ -6,15 +6,13 @@ Lithium Carbonate (Li2CO3): https://github.com/globalaiorg/NLP-LITHIUM-COMMODITI
 Lithium Hydroxide (LiOH): https://github.com/globalaiorg/NLP-LITHIUM-COMMODITIES/blob/main/jerry/lithium_dataset/Lithium%20Hydroxide%20(wind%20database).csv 
 
 #### Unsmoothing Methods
-Due to illiquidity of Lithium price, we need to do Unsmoothing Process with AR & MA model
+Due to illiquidity of Lithium price, we need to do Unsmoothing Process with AR & MA model \\
 Instructions:  https://drive.google.com/drive/u/1/folders/1M7Fzb_CyFdeqfdZdKF1Rl3LTATyabs9O 
 
 #### Regression 
-After unsmoothing or recovering true series, doing the Regression Analysis with mining companies
+After unsmoothing or recovering true series, doing the Regression Analysis with mining companies\\
 instructions: https://docs.google.com/document/u/1/d/1YAz7q6jrPTlZOP45TCrM2-oySiO1JckQ/edit?usp=drive_web&ouid=109765196100323927209&rtpof=true 
-code
-Task2: https://github.com/globalaiorg/NLP-LITHIUM-COMMODITIES/blob/main/birdy/Li2CO3-Task2-time-series-regression.ipynb 
-Task3: https://github.com/globalaiorg/NLP-LITHIUM-COMMODITIES/blob/main/birdy/Task3_LiOH_time-series-regression.ipynb 
+code: in the folder 'code' above
 
 #### News Data
 News Feature Creation with Gdelt Dataset: 
